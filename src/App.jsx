@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import { Customers } from "./components/Customers";
 import { Employees } from "./components/Employees";
 
