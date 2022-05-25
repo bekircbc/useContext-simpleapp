@@ -9,8 +9,11 @@ function App() {
         <img src="images/icon.png" alt="logo" />
         <h1>Simple Usecontext App</h1>
       </div>
+      <hr />
       <Customers />
+      <hr />
       <Employees />
+      <hr />
     </div>
   );
 }
